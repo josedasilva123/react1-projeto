@@ -9,8 +9,8 @@ export function AboutSection() {
          </div>
          <div>
             <img src={Logo} alt="Logo Pizza Planet" />
-            <h2>Sobre nós</h2>
-            <p>
+            <h2 className="title one">Sobre nós</h2>
+            <p className="text">
                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut mi
                diam. Aenean nec mauris et ex efficitur interdum. Aliquam ut turpis nec
                tellus facilisis egestas vel ut felis. Suspendisse in ex eu purus mollis

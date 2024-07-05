@@ -4,7 +4,7 @@ import { RecipeCard } from "./RecipeCard";
 export function RecipesSection() {
    return (
       <section id="sabores">
-         <h2>Sabores especiais</h2>
+         <h2 className="title two">Sabores especiais</h2>
          <ul>
             {recipeList.map((recipe) => (
                <RecipeCard key={recipe.id} recipe={recipe} />

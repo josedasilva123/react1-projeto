@@ -1,0 +1,43 @@
+.title{
+    font-family: var(--font-primary);
+    font-weight: 700;
+    line-height: 1.6;
+    text-transform: uppercase;
+    color: var(--color-red);
+}
+
+.title.one{
+    font-size: 4rem;
+}
+
+.title.two{
+    font-size: 3.25rem;
+}
+
+.title.three{
+    font-size: 2rem;
+}
+
+.title.center{
+    text-align: center;
+}
+
+.title.white{
+    color: var(--color-white);
+}
+
+.text{
+    font-family: var(--font-secondary);
+    font-weight: 400;
+    font-size: 1.125rem;
+    line-height: 1.8;
+    color: var(--color-black);
+}
+
+.text.center{
+    text-align: center;
+}
+
+.text.white{
+    color: var(--color-white);
+}
