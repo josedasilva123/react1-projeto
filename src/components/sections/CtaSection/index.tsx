@@ -16,7 +16,7 @@ export function CtaSection() {
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut mi
                   diam. Aenean nec mauris et ex efficitur interdum.
                </p>
-               <a href="">Reservar agora</a>
+               <a className="button white" href="">Reservar agora</a>
             </div>
          </div>
       </section>
