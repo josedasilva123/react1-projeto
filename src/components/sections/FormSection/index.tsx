@@ -2,7 +2,7 @@ import { ContactForm } from "../../forms/ContactForm";
 
 export function FormSection() {
    return (
-      <section>
+      <section id="formulario">
          <h2>Formulário de contato</h2>
          <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut mi diam.

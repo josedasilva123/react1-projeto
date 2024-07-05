@@ -3,7 +3,7 @@ import Logo from "../../../assets/PizzaLogo.svg";
 
 export function AboutSection() {
    return (
-      <section>
+      <section id="sobre">
          <div>
             <img src={AboutImage} alt="Chefe de cozinha montando 4 pizzas." />
          </div>

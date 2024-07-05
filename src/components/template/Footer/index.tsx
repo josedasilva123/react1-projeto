@@ -1,7 +1,9 @@
+import Logo from "../../../assets/PizzaLogo.svg";
+
 export function Footer(){
     return(
         <footer>
-            Footer
+            <img src={Logo} alt="Logo Pizza Planet" />
         </footer>
     )
 }
