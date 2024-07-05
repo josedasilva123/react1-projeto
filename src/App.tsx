@@ -1,8 +1,11 @@
+import { Template } from "./components/template/Template";
+import { HomePage } from "./pages/HomePage";
+
 function App() {
    return (
-      <>
-        Olá
-      </>
+      <Template>
+         <HomePage />
+      </Template>
    );
 }
 
