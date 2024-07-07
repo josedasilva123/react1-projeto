@@ -3,7 +3,7 @@ import { RecipeCard } from "./RecipeCard";
 
 export function RecipesSection() {
    return (
-      <section id="sabores">
+      <section id="sabores" className="background-yellow">
          <h2 className="title two">Sabores especiais</h2>
          <ul>
             {recipeList.map((recipe) => (

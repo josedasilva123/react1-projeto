@@ -2,7 +2,7 @@ import Logo from "../../../assets/PizzaLogo.svg";
 
 export function Header(){
     return(
-        <header>
+        <header className="background-white">
             <img src={Logo} alt="Logo Pizza Planet" />
             <nav>
                 <ul>

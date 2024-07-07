@@ -1,0 +1,11 @@
+.background-red{
+    background-color: var(--color-red);
+}
+
+.background-white{
+    background-color: var(--color-white);
+}
+
+.background-yellow{
+    background-color: var(--color-yellow);
+}
