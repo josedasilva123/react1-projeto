@@ -9,3 +9,14 @@
 .background-yellow{
     background-color: var(--color-yellow);
 }
+
+.container{
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+.container.sm{
+    max-width: 740px;
+}
