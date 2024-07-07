@@ -41,3 +41,16 @@
 .text.white{
     color: var(--color-white);
 }
+
+.menu-item{
+    font-family: var(--font-secondary);
+    font-weight: 400;
+    font-size: 1.125rem;
+    line-height: 1.8;
+    text-transform: uppercase;
+    color: var(--color-black);
+}
+
+.menu-item:hover{
+    text-decoration: underline;
+}

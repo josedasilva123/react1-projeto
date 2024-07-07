@@ -6,8 +6,8 @@ export function Header(){
             <img src={Logo} alt="Logo Pizza Planet" />
             <nav>
                 <ul>
-                    <li><a href="#sabores">Sabores</a></li>
-                    <li><a href="#sobre">Sobre</a></li>
+                    <li><a className="menu-item" href="#sabores">Sabores</a></li>
+                    <li><a className="menu-item" href="#sobre">Sobre</a></li>
                     <li><a className="button red" href="#formulario">Reservar agora</a></li>
                 </ul>
             </nav>
