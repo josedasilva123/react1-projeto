@@ -20,3 +20,9 @@
 .container.sm{
     max-width: 740px;
 }
+
+.divisor{
+    width: 50%;
+    height: 22px;
+    background-color: var(--color-red);
+}

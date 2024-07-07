@@ -8,7 +8,7 @@ export function BannerSection() {
          </div>
 
          <img src={Banner} alt="Pizza de lombo." />
-         <div></div>
+         <div className="divisor"></div>
       </section>
    );
 }
