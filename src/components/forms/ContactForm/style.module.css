@@ -1,0 +1,14 @@
+.form{
+    max-width: 500px;
+    margin: 0 auto;
+
+    gap: 20px;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form button{
+    margin-top: 10px;
+}
