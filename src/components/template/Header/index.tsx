@@ -6,7 +6,9 @@ export function Header() {
       <header className={`background-white ${styles.header}`}>
          <div className="container">
             <div className={styles.box}>
-               <img src={Logo} alt="Logo Pizza Planet" />
+               <a href="#">
+                  <img src={Logo} alt="Logo Pizza Planet" />
+               </a>
                <nav>
                   <ul>
                      <li>
