@@ -1,0 +1,36 @@
+*{
+    scroll-behavior: smooth;
+}
+
+.background-red{
+    background-color: var(--color-red);
+}
+
+.background-white{
+    background-color: var(--color-white);
+}
+
+.background-yellow{
+    background-color: var(--color-yellow);
+}
+
+.container{
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+.container.sm{
+    max-width: 740px;
+}
+
+.divisor{
+    width: 50%;
+    height: 22px;
+    background-color: var(--color-red);
+}
+
+.section-p{
+    padding: 75px 0 85px;
+}
