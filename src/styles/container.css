@@ -26,3 +26,7 @@
     height: 22px;
     background-color: var(--color-red);
 }
+
+.section-p{
+    padding: 75px 0 85px;
+}
